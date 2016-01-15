@@ -1,0 +1,13 @@
+//
+//  Bookshelf.pch
+//  myBook
+//
+//  Created by csip on 15/7/23.
+//  Copyright (c) 2015年 csip. All rights reserved.
+//
+#import <Availability.h>
+
+#ifndef myBook_Bookshelf_pch
+#define myBook_Bookshelf_pch
+#import "CustConfig.h"
+#endif
